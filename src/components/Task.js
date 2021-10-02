@@ -1,15 +1,5 @@
 import React from "react";
-import {
-  Button,
-  List,
-  Form,
-  Input,
-  Divider,
-  Item,
-  Label,
-  Grid,
-  Segment,
-} from "semantic-ui-react";
+import { Button, List, Form, Input, Divider, Item, Label, Grid, Segment } from "semantic-ui-react";
 
 const Task = ({
   name,
