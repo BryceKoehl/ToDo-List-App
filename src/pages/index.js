@@ -1,13 +1,6 @@
 import React from "react";
 import "semantic-ui-css/semantic.css";
-import {
-  Button,
-  Container,
-  Header,
-  Segment,
-  List,
-  Divider,
-} from "semantic-ui-react";
+import { Button, Container, Header, Segment, List, Divider } from "semantic-ui-react";
 
 import TaskForm from "../components/TaskForm";
 import Task from "../components/Task";
